@@ -1,0 +1,3 @@
+User story
+As a administrator I should have option to add Customer contacts, with all their details like company, tel numbers, skype, etc.,
+so that I can know all information, which i need, and can filter them by companies and other filters.

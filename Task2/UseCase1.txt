@@ -1,0 +1,10 @@
+UC 1. Customer contact add
+
+1.Administrator navigate Home/Contacts
+2.Adm. press button Add contact
+3.System show administratorform for adding new contact
+4.Adm. fill all of the fields
+5.If data isn't valid in any field with *, system show a message
+about invalid data under field, and makes Submit button inactive.
+6.If all field is valid, adm. press Submit button.
+7. System create customer contact and show message Contact created.

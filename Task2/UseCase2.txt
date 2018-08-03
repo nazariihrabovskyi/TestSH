@@ -1,0 +1,10 @@
+UC 2. Customer contact add/close the form
+
+1.Administrator navigate Home/Contacts
+2.Adm. press button Add contact
+3.System show administratorform for adding new contact
+4.Adm. fill all of the fields
+5.If data isn't valid in any field with *, system show a message
+about invalid data under field, and makes Submit button inactive.
+6.Adm press Close button
+7. System close customer contact form.

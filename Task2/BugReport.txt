@@ -1,0 +1,16 @@
+Bug report id. 1
+
+Expected behavoir
+When we create contact with Name and Email, but without contact phone, system makes button Submit inactive
+
+Actual behavoir
+When we create contact with Name and Email, but without contact phone, system don't makes button Submit inactive
+
+Precondition
+A user should be login with Admin role
+User is on Contact page
+
+Steps to reproduce 
+1. Into field Name enter "Nazar".
+2. Into field Email enter "nazar@gmail.com".
+3. Press Submit button.
